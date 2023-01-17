@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jasmundo\\Documents\\C# projects\\CueGenerator\\CueGenerator\\CueGenerator.csproj": {}
+    "C:\\Users\\jasmundo\\Documents\\Github repos\\Cue-File-Generator\\CueGenerator\\CueGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jasmundo\\Documents\\C# projects\\CueGenerator\\CueGenerator\\CueGenerator.csproj": {
+    "C:\\Users\\jasmundo\\Documents\\Github repos\\Cue-File-Generator\\CueGenerator\\CueGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jasmundo\\Documents\\C# projects\\CueGenerator\\CueGenerator\\CueGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\jasmundo\\Documents\\Github repos\\Cue-File-Generator\\CueGenerator\\CueGenerator.csproj",
         "projectName": "CueGenerator",
-        "projectPath": "C:\\Users\\jasmundo\\Documents\\C# projects\\CueGenerator\\CueGenerator\\CueGenerator.csproj",
+        "projectPath": "C:\\Users\\jasmundo\\Documents\\Github repos\\Cue-File-Generator\\CueGenerator\\CueGenerator.csproj",
         "packagesPath": "C:\\Users\\jasmundo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jasmundo\\Documents\\C# projects\\CueGenerator\\CueGenerator\\obj\\",
+        "outputPath": "C:\\Users\\jasmundo\\Documents\\Github repos\\Cue-File-Generator\\CueGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

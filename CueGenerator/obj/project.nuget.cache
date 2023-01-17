@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gVGMrUSjvOsUcoGm+zk1g46LCi92WUpxnQDntCF28yJXG/7S2nn633N7em8p/LgDIng3ED87YL2FfC8eLi89Jw==",
+  "dgSpecHash": "UL/t3jz8N/E6NnbuYMZdSRXQ2k8nGawPPj2/SvlJNLDYQniHx+jbi6WuafNYTw7ZS09ccvsF88v5pi9TqlqRfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jasmundo\\Documents\\C# projects\\CueGenerator\\CueGenerator\\CueGenerator.csproj",
+  "projectFilePath": "C:\\Users\\jasmundo\\Documents\\Github repos\\Cue-File-Generator\\CueGenerator\\CueGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
