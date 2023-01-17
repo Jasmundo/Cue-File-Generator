@@ -69,15 +69,15 @@
             // 
             this.filenameTxt.Location = new System.Drawing.Point(93, 12);
             this.filenameTxt.Name = "filenameTxt";
-            this.filenameTxt.Size = new System.Drawing.Size(397, 23);
+            this.filenameTxt.Size = new System.Drawing.Size(379, 23);
             this.filenameTxt.TabIndex = 1;
             // 
             // artistTxt
             // 
             this.artistTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.artistTxt.Location = new System.Drawing.Point(717, 59);
+            this.artistTxt.Location = new System.Drawing.Point(656, 61);
             this.artistTxt.Name = "artistTxt";
-            this.artistTxt.Size = new System.Drawing.Size(205, 23);
+            this.artistTxt.Size = new System.Drawing.Size(248, 23);
             this.artistTxt.TabIndex = 2;
             this.artistTxt.Click += new System.EventHandler(this.artistTxt_Click);
             // 
@@ -85,7 +85,7 @@
             // 
             this.multipleArtistChk.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.multipleArtistChk.AutoSize = true;
-            this.multipleArtistChk.Location = new System.Drawing.Point(928, 63);
+            this.multipleArtistChk.Location = new System.Drawing.Point(910, 60);
             this.multipleArtistChk.Name = "multipleArtistChk";
             this.multipleArtistChk.Size = new System.Drawing.Size(106, 19);
             this.multipleArtistChk.TabIndex = 3;
@@ -107,7 +107,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Enabled = false;
-            this.label1.Location = new System.Drawing.Point(12, 124);
+            this.label1.Location = new System.Drawing.Point(12, 141);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(377, 15);
             this.label1.TabIndex = 5;
@@ -121,7 +121,7 @@
             this.comboBox1.Items.AddRange(new object[] {
             "Artist Name",
             "Song Name"});
-            this.comboBox1.Location = new System.Drawing.Point(12, 142);
+            this.comboBox1.Location = new System.Drawing.Point(12, 159);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 23);
             this.comboBox1.TabIndex = 6;
@@ -135,7 +135,7 @@
             this.comboBox2.Items.AddRange(new object[] {
             "Artist Name",
             "Song Name"});
-            this.comboBox2.Location = new System.Drawing.Point(190, 142);
+            this.comboBox2.Location = new System.Drawing.Point(190, 159);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(121, 23);
             this.comboBox2.TabIndex = 7;
@@ -144,7 +144,7 @@
             // firstSeparatorTxt
             // 
             this.firstSeparatorTxt.Enabled = false;
-            this.firstSeparatorTxt.Location = new System.Drawing.Point(139, 142);
+            this.firstSeparatorTxt.Location = new System.Drawing.Point(139, 159);
             this.firstSeparatorTxt.Name = "firstSeparatorTxt";
             this.firstSeparatorTxt.Size = new System.Drawing.Size(45, 23);
             this.firstSeparatorTxt.TabIndex = 9;
@@ -184,7 +184,7 @@
             // 
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(622, 16);
+            this.label3.Location = new System.Drawing.Point(561, 13);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(80, 15);
             this.label3.TabIndex = 14;
@@ -193,17 +193,17 @@
             // playlistNameTxt
             // 
             this.playlistNameTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.playlistNameTxt.Location = new System.Drawing.Point(717, 13);
+            this.playlistNameTxt.Location = new System.Drawing.Point(656, 13);
             this.playlistNameTxt.Name = "playlistNameTxt";
-            this.playlistNameTxt.Size = new System.Drawing.Size(205, 23);
+            this.playlistNameTxt.Size = new System.Drawing.Size(248, 23);
             this.playlistNameTxt.TabIndex = 15;
             // 
             // genreTxt
             // 
             this.genreTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.genreTxt.Location = new System.Drawing.Point(717, 100);
+            this.genreTxt.Location = new System.Drawing.Point(656, 109);
             this.genreTxt.Name = "genreTxt";
-            this.genreTxt.Size = new System.Drawing.Size(205, 23);
+            this.genreTxt.Size = new System.Drawing.Size(248, 23);
             this.genreTxt.TabIndex = 17;
             this.genreTxt.Click += new System.EventHandler(this.genreTxt_Click);
             // 
@@ -211,7 +211,7 @@
             // 
             this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(622, 103);
+            this.label4.Location = new System.Drawing.Point(561, 109);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(41, 15);
             this.label4.TabIndex = 16;
@@ -220,9 +220,9 @@
             // yearTxt
             // 
             this.yearTxt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.yearTxt.Location = new System.Drawing.Point(717, 148);
+            this.yearTxt.Location = new System.Drawing.Point(656, 157);
             this.yearTxt.Name = "yearTxt";
-            this.yearTxt.Size = new System.Drawing.Size(205, 23);
+            this.yearTxt.Size = new System.Drawing.Size(248, 23);
             this.yearTxt.TabIndex = 19;
             this.yearTxt.Click += new System.EventHandler(this.yearTxt_Click);
             // 
@@ -230,7 +230,7 @@
             // 
             this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(622, 151);
+            this.label5.Location = new System.Drawing.Point(561, 157);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(32, 15);
             this.label5.TabIndex = 18;
@@ -240,7 +240,7 @@
             // 
             this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(928, 103);
+            this.label6.Location = new System.Drawing.Point(910, 109);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(61, 15);
             this.label6.TabIndex = 20;
@@ -250,7 +250,7 @@
             // 
             this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(928, 151);
+            this.label7.Location = new System.Drawing.Point(910, 157);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(61, 15);
             this.label7.TabIndex = 21;
@@ -281,7 +281,7 @@
             // 
             this.label9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(622, 64);
+            this.label9.Location = new System.Drawing.Point(561, 61);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(73, 15);
             this.label9.TabIndex = 24;
@@ -290,7 +290,7 @@
             // endingTimestampChk
             // 
             this.endingTimestampChk.AutoSize = true;
-            this.endingTimestampChk.Location = new System.Drawing.Point(12, 50);
+            this.endingTimestampChk.Location = new System.Drawing.Point(12, 57);
             this.endingTimestampChk.Name = "endingTimestampChk";
             this.endingTimestampChk.Size = new System.Drawing.Size(310, 19);
             this.endingTimestampChk.TabIndex = 25;
@@ -300,7 +300,7 @@
             // orderedListChk
             // 
             this.orderedListChk.AutoSize = true;
-            this.orderedListChk.Location = new System.Drawing.Point(12, 88);
+            this.orderedListChk.Location = new System.Drawing.Point(12, 105);
             this.orderedListChk.Name = "orderedListChk";
             this.orderedListChk.Size = new System.Drawing.Size(309, 19);
             this.orderedListChk.TabIndex = 26;
