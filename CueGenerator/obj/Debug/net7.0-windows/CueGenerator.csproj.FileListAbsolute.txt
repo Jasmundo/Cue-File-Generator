@@ -1,0 +1,17 @@
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\bin\Debug\net7.0-windows\CueGenerator.exe
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\bin\Debug\net7.0-windows\CueGenerator.deps.json
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\bin\Debug\net7.0-windows\CueGenerator.runtimeconfig.json
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\bin\Debug\net7.0-windows\CueGenerator.dll
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\bin\Debug\net7.0-windows\CueGenerator.pdb
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.csproj.AssemblyReference.cache
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.Form1.resources
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.csproj.GenerateResource.cache
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.AssemblyInfoInputs.cache
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.AssemblyInfo.cs
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.dll
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\refint\CueGenerator.dll
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.pdb
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\CueGenerator.genruntimeconfig.cache
+C:\Users\jasmundo\Documents\C# projects\CueGenerator\CueGenerator\obj\Debug\net7.0-windows\ref\CueGenerator.dll
